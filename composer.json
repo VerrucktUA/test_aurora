@@ -1,0 +1,15 @@
+{
+    "name": "root/aurora",
+    "autoload": {
+        "psr-4": {
+            "Root\\Aurora\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VerrucktUA",
+            "email": "verrucktua@gmail.com"
+        }
+    ],
+    "require": {}
+}
